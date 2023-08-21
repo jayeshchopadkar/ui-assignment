@@ -1,0 +1,130 @@
+2023-08-17 16:27:11,073 - INFO - Starting the automation script
+2023-08-17 16:27:44,173 - INFO - Starting the automation script
+2023-08-17 16:46:03,169 - INFO - Starting the automation script
+2023-08-17 16:46:34,554 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".a-price .a-offscreen"}
+  (Session info: chrome=115.0.5790.171); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF7F5744A62+57106]
+	(No symbol) [0x00007FF7F56BCF52]
+	(No symbol) [0x00007FF7F558E2CB]
+	(No symbol) [0x00007FF7F55C786E]
+	(No symbol) [0x00007FF7F55C795C]
+	(No symbol) [0x00007FF7F55BE80C]
+	(No symbol) [0x00007FF7F55E69FF]
+	(No symbol) [0x00007FF7F55BE746]
+	(No symbol) [0x00007FF7F55E6BD0]
+	(No symbol) [0x00007FF7F55FE522]
+	(No symbol) [0x00007FF7F55E6793]
+	(No symbol) [0x00007FF7F55BCE81]
+	(No symbol) [0x00007FF7F55BE064]
+	GetHandleVerifier [0x00007FF7F59F4222+2873042]
+	GetHandleVerifier [0x00007FF7F5A46590+3209792]
+	GetHandleVerifier [0x00007FF7F5A3F3AF+3180639]
+	GetHandleVerifier [0x00007FF7F57D5F25+652245]
+	(No symbol) [0x00007FF7F56C8618]
+	(No symbol) [0x00007FF7F56C47C4]
+	(No symbol) [0x00007FF7F56C48BC]
+	(No symbol) [0x00007FF7F56B4C33]
+	BaseThreadInitThunk [0x00007FFE9B3026AD+29]
+	RtlUserThreadStart [0x00007FFE9BF2AA68+40]
+
+2023-08-17 16:46:34,573 - INFO - Script execution completed
+2023-08-20 15:24:47,883 - INFO - Starting the automation script
+2023-08-20 15:25:10,909 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".a-price .a-offscreen"}
+  (Session info: chrome=115.0.5790.171); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF634184A62+57106]
+	(No symbol) [0x00007FF6340FCF52]
+	(No symbol) [0x00007FF633FCE2CB]
+	(No symbol) [0x00007FF63400786E]
+	(No symbol) [0x00007FF63400795C]
+	(No symbol) [0x00007FF633FFE80C]
+	(No symbol) [0x00007FF6340269FF]
+	(No symbol) [0x00007FF633FFE746]
+	(No symbol) [0x00007FF634026BD0]
+	(No symbol) [0x00007FF63403E522]
+	(No symbol) [0x00007FF634026793]
+	(No symbol) [0x00007FF633FFCE81]
+	(No symbol) [0x00007FF633FFE064]
+	GetHandleVerifier [0x00007FF634434222+2873042]
+	GetHandleVerifier [0x00007FF634486590+3209792]
+	GetHandleVerifier [0x00007FF63447F3AF+3180639]
+	GetHandleVerifier [0x00007FF634215F25+652245]
+	(No symbol) [0x00007FF634108618]
+	(No symbol) [0x00007FF6341047C4]
+	(No symbol) [0x00007FF6341048BC]
+	(No symbol) [0x00007FF6340F4C33]
+	BaseThreadInitThunk [0x00007FFE9B3026AD+29]
+	RtlUserThreadStart [0x00007FFE9BF2AA68+40]
+
+2023-08-20 15:25:10,910 - INFO - Script execution completed
+2023-08-21 10:41:20,846 - INFO - Starting the automation script
+2023-08-21 10:51:50,382 - INFO - Starting the automation script
+2023-08-21 10:51:59,484 - INFO - Starting the automation script
+2023-08-21 10:53:01,288 - INFO - Starting the automation script
+2023-08-21 10:53:21,734 - INFO - Starting the automation script
+2023-08-21 10:54:40,242 - INFO - Starting the automation script
+2023-08-21 10:55:03,669 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".a-price .a-offscreen"}
+  (Session info: chrome=115.0.5790.171); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF634184A62+57106]
+	(No symbol) [0x00007FF6340FCF52]
+	(No symbol) [0x00007FF633FCE2CB]
+	(No symbol) [0x00007FF63400786E]
+	(No symbol) [0x00007FF63400795C]
+	(No symbol) [0x00007FF633FFE80C]
+	(No symbol) [0x00007FF6340269FF]
+	(No symbol) [0x00007FF633FFE746]
+	(No symbol) [0x00007FF634026BD0]
+	(No symbol) [0x00007FF63403E522]
+	(No symbol) [0x00007FF634026793]
+	(No symbol) [0x00007FF633FFCE81]
+	(No symbol) [0x00007FF633FFE064]
+	GetHandleVerifier [0x00007FF634434222+2873042]
+	GetHandleVerifier [0x00007FF634486590+3209792]
+	GetHandleVerifier [0x00007FF63447F3AF+3180639]
+	GetHandleVerifier [0x00007FF634215F25+652245]
+	(No symbol) [0x00007FF634108618]
+	(No symbol) [0x00007FF6341047C4]
+	(No symbol) [0x00007FF6341048BC]
+	(No symbol) [0x00007FF6340F4C33]
+	BaseThreadInitThunk [0x00007FFE9B3026AD+29]
+	RtlUserThreadStart [0x00007FFE9BF2AA68+40]
+
+2023-08-21 10:55:03,670 - INFO - Script execution completed
+2023-08-21 11:08:01,091 - INFO - Starting the automation script
+2023-08-21 11:08:19,044 - ERROR - An error occurred: Message: stale element reference: stale element not found
+  (Session info: chrome=115.0.5790.171); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF634184A62+57106]
+	(No symbol) [0x00007FF6340FCF52]
+	(No symbol) [0x00007FF633FCE2CB]
+	(No symbol) [0x00007FF633FD22B2]
+	(No symbol) [0x00007FF633FD3C5F]
+	(No symbol) [0x00007FF633FD3D50]
+	(No symbol) [0x00007FF6340074E1]
+	(No symbol) [0x00007FF63400795C]
+	(No symbol) [0x00007FF633FFE80C]
+	(No symbol) [0x00007FF6340269FF]
+	(No symbol) [0x00007FF633FFE746]
+	(No symbol) [0x00007FF634026BD0]
+	(No symbol) [0x00007FF63403E522]
+	(No symbol) [0x00007FF634026793]
+	(No symbol) [0x00007FF633FFCE81]
+	(No symbol) [0x00007FF633FFE064]
+	GetHandleVerifier [0x00007FF634434222+2873042]
+	GetHandleVerifier [0x00007FF634486590+3209792]
+	GetHandleVerifier [0x00007FF63447F3AF+3180639]
+	GetHandleVerifier [0x00007FF634215F25+652245]
+	(No symbol) [0x00007FF634108618]
+	(No symbol) [0x00007FF6341047C4]
+	(No symbol) [0x00007FF6341048BC]
+	(No symbol) [0x00007FF6340F4C33]
+	BaseThreadInitThunk [0x00007FFE9B3026AD+29]
+	RtlUserThreadStart [0x00007FFE9BF2AA68+40]
+
+2023-08-21 11:08:19,044 - INFO - Script execution completed

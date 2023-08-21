@@ -1,0 +1,226 @@
+2023-08-17 16:31:41,456 - INFO - Starting the automation script
+2023-08-17 16:32:08,317 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".a-price .a-offscreen"}
+  (Session info: chrome=115.0.5790.171); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF7F5744A62+57106]
+	(No symbol) [0x00007FF7F56BCF52]
+	(No symbol) [0x00007FF7F558E2CB]
+	(No symbol) [0x00007FF7F55C786E]
+	(No symbol) [0x00007FF7F55C795C]
+	(No symbol) [0x00007FF7F55BE80C]
+	(No symbol) [0x00007FF7F55E69FF]
+	(No symbol) [0x00007FF7F55BE746]
+	(No symbol) [0x00007FF7F55E6BD0]
+	(No symbol) [0x00007FF7F55FE522]
+	(No symbol) [0x00007FF7F55E6793]
+	(No symbol) [0x00007FF7F55BCE81]
+	(No symbol) [0x00007FF7F55BE064]
+	GetHandleVerifier [0x00007FF7F59F4222+2873042]
+	GetHandleVerifier [0x00007FF7F5A46590+3209792]
+	GetHandleVerifier [0x00007FF7F5A3F3AF+3180639]
+	GetHandleVerifier [0x00007FF7F57D5F25+652245]
+	(No symbol) [0x00007FF7F56C8618]
+	(No symbol) [0x00007FF7F56C47C4]
+	(No symbol) [0x00007FF7F56C48BC]
+	(No symbol) [0x00007FF7F56B4C33]
+	BaseThreadInitThunk [0x00007FFE9B3026AD+29]
+	RtlUserThreadStart [0x00007FFE9BF2AA68+40]
+
+2023-08-17 16:32:08,336 - INFO - Script execution completed
+2023-08-17 16:49:11,078 - INFO - Starting the automation script
+2023-08-17 16:49:31,603 - ERROR - An error occurred: Message: 
+
+2023-08-17 16:49:31,603 - INFO - Script execution completed
+2023-08-17 16:50:07,407 - INFO - Starting the automation script
+2023-08-17 16:50:23,913 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".rc .r a"}
+  (Session info: chrome=115.0.5790.171); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF7F5744A62+57106]
+	(No symbol) [0x00007FF7F56BCF52]
+	(No symbol) [0x00007FF7F558E2CB]
+	(No symbol) [0x00007FF7F55C786E]
+	(No symbol) [0x00007FF7F55C795C]
+	(No symbol) [0x00007FF7F55BE80C]
+	(No symbol) [0x00007FF7F55E69FF]
+	(No symbol) [0x00007FF7F55BE746]
+	(No symbol) [0x00007FF7F55E6BD0]
+	(No symbol) [0x00007FF7F55FE522]
+	(No symbol) [0x00007FF7F55E6793]
+	(No symbol) [0x00007FF7F55BCE81]
+	(No symbol) [0x00007FF7F55BE064]
+	GetHandleVerifier [0x00007FF7F59F4222+2873042]
+	GetHandleVerifier [0x00007FF7F5A46590+3209792]
+	GetHandleVerifier [0x00007FF7F5A3F3AF+3180639]
+	GetHandleVerifier [0x00007FF7F57D5F25+652245]
+	(No symbol) [0x00007FF7F56C8618]
+	(No symbol) [0x00007FF7F56C47C4]
+	(No symbol) [0x00007FF7F56C48BC]
+	(No symbol) [0x00007FF7F56B4C33]
+	BaseThreadInitThunk [0x00007FFE9B3026AD+29]
+	RtlUserThreadStart [0x00007FFE9BF2AA68+40]
+
+2023-08-17 16:50:23,914 - INFO - Script execution completed
+2023-08-20 15:45:08,812 - INFO - Starting the automation script
+2023-08-20 15:45:11,844 - ERROR - An error occurred: name 'url' is not defined
+2023-08-20 15:45:11,844 - INFO - Script execution completed
+2023-08-20 15:45:28,581 - INFO - Starting the automation script
+2023-08-20 15:45:32,139 - ERROR - An error occurred: name 'url' is not defined
+2023-08-20 15:45:32,139 - INFO - Script execution completed
+2023-08-21 10:58:17,622 - INFO - Starting the automation script
+2023-08-21 10:58:37,478 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".a-price .a-offscreen"}
+  (Session info: chrome=115.0.5790.171); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF634184A62+57106]
+	(No symbol) [0x00007FF6340FCF52]
+	(No symbol) [0x00007FF633FCE2CB]
+	(No symbol) [0x00007FF63400786E]
+	(No symbol) [0x00007FF63400795C]
+	(No symbol) [0x00007FF633FFE80C]
+	(No symbol) [0x00007FF6340269FF]
+	(No symbol) [0x00007FF633FFE746]
+	(No symbol) [0x00007FF634026BD0]
+	(No symbol) [0x00007FF63403E522]
+	(No symbol) [0x00007FF634026793]
+	(No symbol) [0x00007FF633FFCE81]
+	(No symbol) [0x00007FF633FFE064]
+	GetHandleVerifier [0x00007FF634434222+2873042]
+	GetHandleVerifier [0x00007FF634486590+3209792]
+	GetHandleVerifier [0x00007FF63447F3AF+3180639]
+	GetHandleVerifier [0x00007FF634215F25+652245]
+	(No symbol) [0x00007FF634108618]
+	(No symbol) [0x00007FF6341047C4]
+	(No symbol) [0x00007FF6341048BC]
+	(No symbol) [0x00007FF6340F4C33]
+	BaseThreadInitThunk [0x00007FFE9B3026AD+29]
+	RtlUserThreadStart [0x00007FFE9BF2AA68+40]
+
+2023-08-21 10:58:37,479 - INFO - Script execution completed
+2023-08-21 11:03:22,326 - INFO - Starting the automation script
+2023-08-21 11:03:43,671 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".a-price .a-offscreen"}
+  (Session info: chrome=115.0.5790.171); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF634184A62+57106]
+	(No symbol) [0x00007FF6340FCF52]
+	(No symbol) [0x00007FF633FCE2CB]
+	(No symbol) [0x00007FF63400786E]
+	(No symbol) [0x00007FF63400795C]
+	(No symbol) [0x00007FF633FFE80C]
+	(No symbol) [0x00007FF6340269FF]
+	(No symbol) [0x00007FF633FFE746]
+	(No symbol) [0x00007FF634026BD0]
+	(No symbol) [0x00007FF63403E522]
+	(No symbol) [0x00007FF634026793]
+	(No symbol) [0x00007FF633FFCE81]
+	(No symbol) [0x00007FF633FFE064]
+	GetHandleVerifier [0x00007FF634434222+2873042]
+	GetHandleVerifier [0x00007FF634486590+3209792]
+	GetHandleVerifier [0x00007FF63447F3AF+3180639]
+	GetHandleVerifier [0x00007FF634215F25+652245]
+	(No symbol) [0x00007FF634108618]
+	(No symbol) [0x00007FF6341047C4]
+	(No symbol) [0x00007FF6341048BC]
+	(No symbol) [0x00007FF6340F4C33]
+	BaseThreadInitThunk [0x00007FFE9B3026AD+29]
+	RtlUserThreadStart [0x00007FFE9BF2AA68+40]
+
+2023-08-21 11:03:43,671 - INFO - Script execution completed
+2023-08-21 11:10:32,688 - INFO - Starting the automation script
+2023-08-21 11:10:56,562 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".a-price"}
+  (Session info: chrome=115.0.5790.171); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF634184A62+57106]
+	(No symbol) [0x00007FF6340FCF52]
+	(No symbol) [0x00007FF633FCE2CB]
+	(No symbol) [0x00007FF63400786E]
+	(No symbol) [0x00007FF63400795C]
+	(No symbol) [0x00007FF633FFE80C]
+	(No symbol) [0x00007FF6340269FF]
+	(No symbol) [0x00007FF633FFE746]
+	(No symbol) [0x00007FF634026BD0]
+	(No symbol) [0x00007FF63403E522]
+	(No symbol) [0x00007FF634026793]
+	(No symbol) [0x00007FF633FFCE81]
+	(No symbol) [0x00007FF633FFE064]
+	GetHandleVerifier [0x00007FF634434222+2873042]
+	GetHandleVerifier [0x00007FF634486590+3209792]
+	GetHandleVerifier [0x00007FF63447F3AF+3180639]
+	GetHandleVerifier [0x00007FF634215F25+652245]
+	(No symbol) [0x00007FF634108618]
+	(No symbol) [0x00007FF6341047C4]
+	(No symbol) [0x00007FF6341048BC]
+	(No symbol) [0x00007FF6340F4C33]
+	BaseThreadInitThunk [0x00007FFE9B3026AD+29]
+	RtlUserThreadStart [0x00007FFE9BF2AA68+40]
+
+2023-08-21 11:10:56,562 - INFO - Script execution completed
+2023-08-21 11:12:35,476 - INFO - Starting the automation script
+2023-08-21 11:12:45,335 - ERROR - An error occurred: Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=115.0.5790.171); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF634184A62+57106]
+	(No symbol) [0x00007FF6340FCF52]
+	(No symbol) [0x00007FF633FCE2CB]
+	(No symbol) [0x00007FF633FD22B2]
+	(No symbol) [0x00007FF633FD3C5F]
+	(No symbol) [0x00007FF633FD3D50]
+	(No symbol) [0x00007FF6340074E1]
+	(No symbol) [0x00007FF63400795C]
+	(No symbol) [0x00007FF633FFE80C]
+	(No symbol) [0x00007FF6340269FF]
+	(No symbol) [0x00007FF633FFE746]
+	(No symbol) [0x00007FF634026BD0]
+	(No symbol) [0x00007FF63403E522]
+	(No symbol) [0x00007FF634026793]
+	(No symbol) [0x00007FF633FFCE81]
+	(No symbol) [0x00007FF633FFE064]
+	GetHandleVerifier [0x00007FF634434222+2873042]
+	GetHandleVerifier [0x00007FF634486590+3209792]
+	GetHandleVerifier [0x00007FF63447F3AF+3180639]
+	GetHandleVerifier [0x00007FF634215F25+652245]
+	(No symbol) [0x00007FF634108618]
+	(No symbol) [0x00007FF6341047C4]
+	(No symbol) [0x00007FF6341048BC]
+	(No symbol) [0x00007FF6340F4C33]
+	BaseThreadInitThunk [0x00007FFE9B3026AD+29]
+	RtlUserThreadStart [0x00007FFE9BF2AA68+40]
+
+2023-08-21 11:12:45,335 - INFO - Script execution completed
+2023-08-21 11:13:28,945 - INFO - Starting the automation script
+2023-08-21 11:13:39,900 - ERROR - An error occurred: Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=115.0.5790.171); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF634184A62+57106]
+	(No symbol) [0x00007FF6340FCF52]
+	(No symbol) [0x00007FF633FCE2CB]
+	(No symbol) [0x00007FF633FD22B2]
+	(No symbol) [0x00007FF633FD3C5F]
+	(No symbol) [0x00007FF633FD3D50]
+	(No symbol) [0x00007FF6340074E1]
+	(No symbol) [0x00007FF63400795C]
+	(No symbol) [0x00007FF633FFE80C]
+	(No symbol) [0x00007FF6340269FF]
+	(No symbol) [0x00007FF633FFE746]
+	(No symbol) [0x00007FF634026BD0]
+	(No symbol) [0x00007FF63403E522]
+	(No symbol) [0x00007FF634026793]
+	(No symbol) [0x00007FF633FFCE81]
+	(No symbol) [0x00007FF633FFE064]
+	GetHandleVerifier [0x00007FF634434222+2873042]
+	GetHandleVerifier [0x00007FF634486590+3209792]
+	GetHandleVerifier [0x00007FF63447F3AF+3180639]
+	GetHandleVerifier [0x00007FF634215F25+652245]
+	(No symbol) [0x00007FF634108618]
+	(No symbol) [0x00007FF6341047C4]
+	(No symbol) [0x00007FF6341048BC]
+	(No symbol) [0x00007FF6340F4C33]
+	BaseThreadInitThunk [0x00007FFE9B3026AD+29]
+	RtlUserThreadStart [0x00007FFE9BF2AA68+40]
+
+2023-08-21 11:13:39,900 - INFO - Script execution completed
